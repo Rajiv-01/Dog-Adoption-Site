@@ -6,7 +6,7 @@ A website where you can adopt different breeds of Dogs and we can buy merch for 
 
 ## Interface
 ![Screenshot of Deployed Site](Display/HomePage.png)
-![Screenshot of Deployed Site](Display/Adopt Page.png)
+![Screenshot of Deployed Site](Display/AdoptPage.png)
 
 
 ## Steps to contribute
@@ -14,7 +14,7 @@ In order to contribute to this project, follow the steps below:
 - Fork the project, using the gray `Fork` button in the top right of this page
 - Clone your forked repository
   ```bash
-  git clone https://github.com/<Username>/Bookstore-template.git
+  git clone https://github.com/<Username>/Dog-Adoption-Site.git
   ```
 - Create a branch in your local repository to make your changes in
   ```git
