@@ -1,12 +1,18 @@
 # Dog-Adoption-Site
 A website where you can adopt different breeds of Dogs and we can buy merch for them also.
 
+# Problem Statement
+Due to large number of dogs residing in the shelters without any family to take care of them, many are losing their lives and the owner of the shelters are also facing financial problems. Due to slow processes and lack of communication, this problem will still goes on.
+
+# Solution 
+As almost we all are pet person, and we don't want to see any other in any kind of suffering. So to initiate the  command and to help the rescued dogs to get their dream home, I have build a website where we can adopt any dog with an ease, without any interference we can talk or communicate directly to the owner of the shelter to rescue the particular we want . This can make dogs and the shelter owner's life far easier. You can buy toys for them also from this site.
+
 ## Deployed Site
 [WebSite](http://adoption-site.azurewebsites.net/)
 
 ## Interface
 ![Screenshot of Deployed Site](Display/HomePage.png)
-![Screenshot of Deployed Site](Display/AdoptPage.png)
+
 
 
 ## Steps to contribute
